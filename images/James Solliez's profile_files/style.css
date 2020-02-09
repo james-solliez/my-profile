@@ -1,0 +1,35 @@
+/*Colors and fonts*/
+body {
+ 	background-color: #FCFCFC;
+ 	color: #0C0F0A;
+ 	font-family: 'Lora', serif;;
+ 	font-size: 17px;
+ 	font-weight: lighter;
+ }
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+ }
+h1 {
+	color: #053225;
+	font-size: 32px;
+	font-weight: 900;
+}
+h2 {
+	color:  #44BBA4;
+	font-weight: lighter;
+	font-size: 24px;
+	font-weight: 300;
+}
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #0A2463;
+	font-weight: bold;
+	font-size: 22px;
+}
+a:hover {
+	color: black;
+}
+
+
+
